@@ -4,10 +4,8 @@ website:
       - index.ipynb
       - section: usaco
         contents:
-          - section: 1
+          - section: chapter1
             contents:
-              - section: 2
+              - section: ride
                 contents:
-                  - section: ride
-                    contents:
-                      - usaco/1/2/ride/ride.ipynb
+                  - usaco/chapter1/ride/ride.ipynb

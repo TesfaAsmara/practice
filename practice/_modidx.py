@@ -6,6 +6,6 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/tesfaasmara/practice',
                 'lib_path': 'practice'},
   'syms': { 'practice.core': {'practice.core.foo': ('core.html#foo', 'practice/core.py')},
-            'practice.ride': {'practice.ride.translate': ('usaco/1/2/ride/ride.html#translate', 'practice/ride.py')},
+            'practice.ride': {'practice.ride.translate': ('usaco/chapter1/ride/ride.html#translate', 'practice/ride.py')},
             'practice.usaco.1.2.ride.': { 'practice.usaco.1.2.ride..translate': ( 'usaco/1/2/ride/ride.html#translate',
                                                                                   'practice/usaco/1/2/ride/.py')}}}

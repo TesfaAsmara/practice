@@ -2,7 +2,10 @@
 
 d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/practice',
-                'doc_host': 'https://TesfaAsmara.github.io',
-                'git_url': 'https://github.com/TesfaAsmara/practice',
+                'doc_host': 'https://tesfaasmara.github.io',
+                'git_url': 'https://github.com/tesfaasmara/practice',
                 'lib_path': 'practice'},
-  'syms': {'practice.core': {'practice.core.foo': ('core.html#foo', 'practice/core.py')}}}
+  'syms': { 'practice.core': {'practice.core.foo': ('core.html#foo', 'practice/core.py')},
+            'practice.ride': {'practice.ride.translate': ('usaco/1/2/ride/ride.html#translate', 'practice/ride.py')},
+            'practice.usaco.1.2.ride.': { 'practice.usaco.1.2.ride..translate': ( 'usaco/1/2/ride/ride.html#translate',
+                                                                                  'practice/usaco/1/2/ride/.py')}}}

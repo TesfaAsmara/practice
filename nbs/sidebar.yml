@@ -1,0 +1,13 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - section: usaco
+        contents:
+          - section: 1
+            contents:
+              - section: 2
+                contents:
+                  - section: ride
+                    contents:
+                      - usaco/1/2/ride/ride.ipynb

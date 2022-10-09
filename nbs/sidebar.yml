@@ -6,6 +6,9 @@ website:
         contents:
           - section: chapter1
             contents:
+              - section: gift1
+                contents:
+                  - usaco/chapter1/gift1/gift1.ipynb
               - section: ride
                 contents:
                   - usaco/chapter1/ride/ride.ipynb

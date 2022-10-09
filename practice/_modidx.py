@@ -8,4 +8,5 @@ d = { 'settings': { 'branch': 'main',
   'syms': { 'practice.core': {'practice.core.foo': ('core.html#foo', 'practice/core.py')},
             'practice.ride': {'practice.ride.translate': ('usaco/chapter1/ride/ride.html#translate', 'practice/ride.py')},
             'practice.usaco.1.2.ride.': { 'practice.usaco.1.2.ride..translate': ( 'usaco/1/2/ride/ride.html#translate',
-                                                                                  'practice/usaco/1/2/ride/.py')}}}
+                                                                                  'practice/usaco/1/2/ride/.py')},
+            'practice.usaco.gift1': {}}}

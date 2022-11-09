@@ -1,3 +1,5 @@
+# File: HigherOrLower.py
+
 # HigherOrLower
 import random
 
@@ -78,6 +80,3 @@ while True: # Play multiple games
         break
 
 print("OK bye")
-
-
-
